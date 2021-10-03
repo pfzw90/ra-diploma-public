@@ -27,14 +27,14 @@ function App() {
                 </div>
 
       <Switch>
-          <Route exact path="/" component={MainPage}/>
-          <Route exact path="/catalog" component={Catalog}/>
-          <Route exact path="/catalog/:id" component={ItemDetails}/>
-          <Route exact path="/contacts" component={Contacts}/>
-          <Route exact path="/cart" component={Cart}/>
-          <Route exact path="/about" component={About}/>
-          <Route path='/404' component={NotFound} />
-        <Redirect from='*' to='/404' />
+          <Route exact path="/ra-diploma-public/" component={MainPage}/>
+          <Route exact path="/ra-diploma-public/catalog" component={Catalog}/>
+          <Route exact path="/ra-diploma-public/catalog/:id" component={ItemDetails}/>
+          <Route exact path="/ra-diploma-public/contacts" component={Contacts}/>
+          <Route exact path="/ra-diploma-public/cart" component={Cart}/>
+          <Route exact path="/ra-diploma-public/about" component={About}/>
+          <Route path='/ra-diploma-public/404' component={NotFound} />
+        <Redirect from='*' to='/ra-diploma-public/404' />
 
         </Switch>
 
