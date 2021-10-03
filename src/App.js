@@ -31,7 +31,7 @@ function App() {
           <Route exact path="/catalog" component={Catalog}/>
           <Route exact path="/catalog/:id" component={ItemDetails}/>
           <Route exact path="/contacts" component={Contacts}/>
-          <Route exact path="/cart" component={Cart}/>
+          <Route exact path="/cart/cart" component={Cart}/>
           <Route exact path="/about" component={About}/>
           <Route path='/404' component={NotFound} />
         <Redirect from='*' to='/404' />
