@@ -16,7 +16,7 @@ import ItemDetails from './components/catalog/itemdetails/ItemDetails.jsx';
 function App() {
   return (
     <>
-    <Router>
+    <Router basename='/ra-diploma-public'>
     <Header/>
     <main className="container">
         <div className="row">
