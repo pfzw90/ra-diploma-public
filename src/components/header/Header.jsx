@@ -26,7 +26,7 @@ function Header({ location }) {
                         <ul className="navbar-nav mr-auto">
                         {links.map((link) => (
                             <li key={nanoid()} className={`nav-item${location.pathname === link.alias ? ' active' : ''}`}>
-                                <Link className="nav-link" to={`${process.env.PUBLIC_URL}/${link.alias}`}>{link.title}</Link>
+                                <Link className="nav-link" to={`${process.env.PUBLIC_URL}${link.alias}`}>{link.title}</Link>
                             </li>
                         ))}
                         </ul>
