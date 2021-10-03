@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.444398d2.chunk.css",
-    "main.js": "/static/js/main.f69ef889.chunk.js",
-    "main.js.map": "/static/js/main.f69ef889.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c6e95595.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c6e95595.js.map",
-    "static/js/2.f19d21f8.chunk.js": "/static/js/2.f19d21f8.chunk.js",
-    "static/js/2.f19d21f8.chunk.js.map": "/static/js/2.f19d21f8.chunk.js.map",
-    "static/js/3.4a530a90.chunk.js": "/static/js/3.4a530a90.chunk.js",
-    "static/js/3.4a530a90.chunk.js.map": "/static/js/3.4a530a90.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.444398d2.chunk.css.map": "/static/css/main.444398d2.chunk.css.map",
-    "static/js/2.f19d21f8.chunk.js.LICENSE.txt": "/static/js/2.f19d21f8.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/footer-sprite.b3d5697a.png"
+    "main.css": "/ra-diploma-public/static/css/main.8ba5fa96.chunk.css",
+    "main.js": "/ra-diploma-public/static/js/main.e16868d4.chunk.js",
+    "main.js.map": "/ra-diploma-public/static/js/main.e16868d4.chunk.js.map",
+    "runtime-main.js": "/ra-diploma-public/static/js/runtime-main.7cf0adc1.js",
+    "runtime-main.js.map": "/ra-diploma-public/static/js/runtime-main.7cf0adc1.js.map",
+    "static/js/2.6c9ef751.chunk.js": "/ra-diploma-public/static/js/2.6c9ef751.chunk.js",
+    "static/js/2.6c9ef751.chunk.js.map": "/ra-diploma-public/static/js/2.6c9ef751.chunk.js.map",
+    "static/js/3.4a530a90.chunk.js": "/ra-diploma-public/static/js/3.4a530a90.chunk.js",
+    "static/js/3.4a530a90.chunk.js.map": "/ra-diploma-public/static/js/3.4a530a90.chunk.js.map",
+    "index.html": "/ra-diploma-public/index.html",
+    "static/css/main.8ba5fa96.chunk.css.map": "/ra-diploma-public/static/css/main.8ba5fa96.chunk.css.map",
+    "static/js/2.6c9ef751.chunk.js.LICENSE.txt": "/ra-diploma-public/static/js/2.6c9ef751.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ra-diploma-public/static/media/footer-sprite.b3d5697a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6e95595.js",
-    "static/js/2.f19d21f8.chunk.js",
-    "static/css/main.444398d2.chunk.css",
-    "static/js/main.f69ef889.chunk.js"
+    "static/js/runtime-main.7cf0adc1.js",
+    "static/js/2.6c9ef751.chunk.js",
+    "static/css/main.8ba5fa96.chunk.css",
+    "static/js/main.e16868d4.chunk.js"
   ]
 }
