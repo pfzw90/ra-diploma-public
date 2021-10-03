@@ -17,7 +17,7 @@ function Item(props) {
             <Grid className="card-body" rows="1fr">
                 <p className="card-text">{title}</p>
                 <p className="card-text">{price} руб.</p>
-                <a href={`/catalog/${id}`} className="btn btn-outline-primary">Заказать</a>
+                <a href={`/ra-diploma-public/catalog/${id}`} className="btn btn-outline-primary">Заказать</a>
             </Grid>
         </GridItem>
     </>
