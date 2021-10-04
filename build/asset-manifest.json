@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ra-diploma-public/static/css/main.8ba5fa96.chunk.css",
-    "main.js": "/ra-diploma-public/static/js/main.6a79b557.chunk.js",
-    "main.js.map": "/ra-diploma-public/static/js/main.6a79b557.chunk.js.map",
+    "main.js": "/ra-diploma-public/static/js/main.a46bc5fc.chunk.js",
+    "main.js.map": "/ra-diploma-public/static/js/main.a46bc5fc.chunk.js.map",
     "runtime-main.js": "/ra-diploma-public/static/js/runtime-main.7cf0adc1.js",
     "runtime-main.js.map": "/ra-diploma-public/static/js/runtime-main.7cf0adc1.js.map",
     "static/js/2.6c9ef751.chunk.js": "/ra-diploma-public/static/js/2.6c9ef751.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7cf0adc1.js",
     "static/js/2.6c9ef751.chunk.js",
     "static/css/main.8ba5fa96.chunk.css",
-    "static/js/main.6a79b557.chunk.js"
+    "static/js/main.a46bc5fc.chunk.js"
   ]
 }
