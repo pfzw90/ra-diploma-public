@@ -16,7 +16,7 @@ import ItemDetails from './components/catalog/itemdetails/ItemDetails.jsx';
 function App() {
   return (
     <>
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename={`/${process.env.PUBLIC_URL}`}>
     <Header/>
     <main className="container">
         <div className="row">
