@@ -16,7 +16,7 @@ import ItemDetails from './components/catalog/itemdetails/ItemDetails.jsx';
 function App() {
   return (
     <>
-    <Router basename={`/${process.env.PUBLIC_URL}`}>
+    <Router basename={'/ra-diploma-public'}>
     <Header/>
     <main className="container">
         <div className="row">
@@ -27,7 +27,7 @@ function App() {
                 </div>
 
       <Switch>
-          <Route exact path="/" component={MainPage}/>
+          <Route exact path="" component={MainPage}/>
           <Route exact path="/catalog" component={Catalog}/>
           <Route exact path="/catalog/:id" component={ItemDetails}/>
           <Route exact path="/contacts" component={Contacts}/>
